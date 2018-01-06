@@ -1,0 +1,25 @@
+.index-module__title____kuSF {
+  position: absolute;
+  /* top: 0px; */
+  top: 50%;
+  width: 100%;
+  /* padding: 5px; */
+  font-family: Oswald, monospace;
+  font-size: 1rem;
+  text-align: center;
+  color: #ffffff;
+  -webkit-transform: scale(1, 1.2);
+          transform: scale(1, 1.2); }
+
+.index-module__title____kuSF a {
+  color: #aaa;
+  text-align: center;
+  letter-spacing: 0.5rem;
+  text-decoration: none;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none; }
+
+.index-module__title____kuSF a:hover {
+  color: #ccc; }
